@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/samfeder/Chatting-App.git"
+    "url": "git remote add origin https://github.com/andrewelee/chattingApp.git"
   },
   "author": "sam+andrew",
   "license": "ISC",
